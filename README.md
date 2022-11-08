@@ -8,4 +8,5 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
+Собрано с помощью twrpdtgen
 Android 10
